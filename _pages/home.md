@@ -41,7 +41,7 @@ acknowledgements: ""
   <div class="col-xs-12">
     <table class="table table-striped" id="schedule-table">
     <tbody>
-    <tr> <th scope="row" data-time="08:00">08:00 AM</th> <td>Talk 1: "Explaining Model Decisions and Fixing Them via Focused Feedback" by Ramprasaath R. Selvaraju (<a href="">Slides, </a> <a href="https://youtu.be/rI--agyHEoE">Video</a>)</td></tr>
+    <tr> <th scope="row" data-time="08:00">08:00 AM</th> <td>Talk 1: "Explaining Model Decisions and Fixing Them via Focused Feedback" by Ramprasaath R. Selvaraju (<a href="https://drive.google.com/file/d/15q2XbypMB7PlRAQaEqA9pXzvb4xdpTmL/view?usp=sharing"><span style="color:blue"> Slides, </span> </a> <a href="https://youtu.be/rI--agyHEoE"> <span style="color:blue">Video </span> </a>)</td></tr>
     <tr> <th scope="row" data-time="08:45">08:45 AM</th> <td>Talk 2: "Characterizing Bias and Developing Trustworthy AI Models" by Sara Hooker</td></tr>
     <tr> <th scope="row" data-time="09:30">09:30 AM</th> <td>Talk 3: "Interacting with Deep AI Models" by Bolei Zhou</td> </tr>
     <tr> <th scope="row" data-time="10:15">10:15 AM</th> <td>Talk 4: "Adversarially Robust Models as Visual Priors" by Aleksander Madry</td></tr>
