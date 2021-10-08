@@ -13,7 +13,7 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-12">
     <center><h1>Towards Robust, Trustworthy, and Explainable Computer Vision</h1></center>
-    <center><h2>Oct 11 - Oct 17, 2021. ICCV Tutorial, Montreal, Canada.</h2></center>
+    <center><h2>8 am - 12 pm on Oct 11, 2021. ICCV Tutorial, Montreal, Canada.</h2></center>
   </div>
 </div>
 
@@ -41,14 +41,12 @@ acknowledgements: ""
   <div class="col-xs-12">
     <table class="table table-striped" id="schedule-table">
     <tbody>
-    <tr> <th scope="row" data-time="11:15">11:15 AM</th> <td>Opening Remarks</td></tr>
-    <tr> <th scope="row" data-time="11:30">11:30 AM</th> <td>Talk 1: "Explaining Model Decisions and Fixing Them via Human Feedback" by Ramprasaath R. Selvaraju </td></tr>
-    <tr> <th scope="row" data-time="12:15">12:15 PM</th> <td>Talk 2: "Characterizing Bias and Developing Trustworthy AI Models" by Sara Hooker</td></tr>
-    <tr> <th scope="row" data-time="13:00">01:00 PM</th> <td>Break</td></tr>
-    <tr> <th scope="row" data-time="13:30">01:30 PM</th> <td>Talk 3: "Interacting with Deep AI Models" by Bolei Zhou</td> </tr>
-    <tr> <th scope="row" data-time="14:15">02:15 PM</th> <td>Talk 4: "Adversarially Robust Models as Visual Priors" by Aleksander Madry</td></tr>
-    <tr> <th scope="row" data-time="15:00">03:00 PM</th> <td>Panel Discussion</td> </tr>
-    <tr> <th scope="row" data-time="15:30">03:30 PM</th> <td>Closing Remark</td> </tr>
+    <tr> <th scope="row" data-time="08:00">08:00 AM</th> <td>Talk 1: "Explaining Model Decisions and Fixing Them via Focused Feedback" by Ramprasaath R. Selvaraju (<a href="">Slides, </a> <a href="https://youtu.be/rI--agyHEoE">Video</a>)</td></tr>
+    <tr> <th scope="row" data-time="08:45">08:45 AM</th> <td>Talk 2: "Characterizing Bias and Developing Trustworthy AI Models" by Sara Hooker</td></tr>
+    <tr> <th scope="row" data-time="09:30">09:30 AM</th> <td>Talk 3: "Interacting with Deep AI Models" by Bolei Zhou</td> </tr>
+    <tr> <th scope="row" data-time="10:15">10:15 AM</th> <td>Talk 4: "Adversarially Robust Models as Visual Priors" by Aleksander Madry</td></tr>
+    <tr> <th scope="row" data-time="11:00">11:00 AM</th> <td>Panel Discussion</td> </tr>
+    <tr> <th scope="row" data-time="12:00">12:00 PM</th> <td>Closing Remarks</td> </tr>
     </tbody>
     </table>
   </div>
@@ -102,33 +100,6 @@ acknowledgements: ""
 </div>
 
 <hr />
-
-<!-- Organizers -->
-<div class="row" id="organizers">
-  <div class="col-xs-12">
-    <h2>Organizers</h2>
-  </div>
-</div>
-<div class="row">
-  <div class="col-xs-6 col-lg-3">
-    <a href="http://ramprs.github.io/">
-      <img class="people-pic" src="{{ "/static/img/people/ram.jpg" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="http://ramprs.github.io/">Ramprasaath R. Selvaraju</a>
-      <h6>Salesforce Research</h6>
-    </div>
-  </div>
-  <div class="col-xs-6 col-lg-3">
-    <a href="http://bzhou.ie.cuhk.edu.hk/">
-      <img class="people-pic" src="{{ "/static/img/people/bolei.jpg" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="http://bzhou.ie.cuhk.edu.hk/">Bolei Zhou</a>
-      <h6>Chinese University of Hong Kong</h6>
-    </div>
-  </div>
-</div>
 
 <hr />
 <!-- Intro -->
