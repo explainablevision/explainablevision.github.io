@@ -17,8 +17,6 @@ acknowledgements: ""
   </div>
 </div>
 
-<br />
-
 <div class="row">
     <div class="col-xs-12">
         <p>
@@ -26,8 +24,6 @@ acknowledgements: ""
         </p>
     </div>
 </div>
-
-<br />
 
 <div class="row" id="schedule">
   <div class="col-md-4 col-xs-12">
