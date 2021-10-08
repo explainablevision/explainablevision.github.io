@@ -80,7 +80,7 @@ acknowledgements: ""
   </div>
   <div class="col-xs-6 col-lg-3">
     <a href="https://people.csail.mit.edu/madry/">
-      <img class="people-pic" src="{{ "/static/img/people/Madry.jpg" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "/static/img/people/madry.png" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://people.csail.mit.edu/madry/">Aleksander Madry</a>
