@@ -75,7 +75,7 @@ acknowledgements: ""
     </a>
     <div class="people-name">
       <a href="http://bzhou.ie.cuhk.edu.hk/">Bolei Zhou</a>
-      <h6>Chinese University of Hong Kong</h6>
+      <h6>Chinese University of Hong Kong --> UCLA</h6>
     </div>
   </div>
   <div class="col-xs-6 col-lg-3">
