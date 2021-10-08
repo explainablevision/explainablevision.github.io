@@ -46,7 +46,6 @@ acknowledgements: ""
     <tr> <th scope="row" data-time="09:30">09:30 AM</th> <td>Talk 3: "Interacting with Deep AI Models" by Bolei Zhou (<a href="https://drive.google.com/file/d/1Xzwy4bKbk1O4L7sV6D9xSUewdB3hHynS/view?usp=sharing"><span style="color:blue">Slides, </span> </a> <a href="https://www.youtube.com/watch?v=WJSXpEkNCfs"> <span style="color:blue">Video</span></a>)</td> </tr>
     <tr> <th scope="row" data-time="10:15">10:15 AM</th> <td>Talk 4: "Adversarially Robust Models as Visual Priors" by Aleksander Madry</td></tr>
     <tr> <th scope="row" data-time="11:00">11:00 AM</th> <td>Panel Discussion</td> </tr>
-    <tr> <th scope="row" data-time="12:00">12:00 PM</th> <td>Closing Remarks</td> </tr>
     </tbody>
     </table>
   </div>
