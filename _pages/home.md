@@ -40,7 +40,7 @@ acknowledgements: ""
     <tr> <th scope="row" data-time="08:00">08:00 AM</th> <td>Talk 1: "Explaining Model Decisions and Fixing Them via Focused Feedback" by Ramprasaath R. Selvaraju (<a href="https://drive.google.com/file/d/15q2XbypMB7PlRAQaEqA9pXzvb4xdpTmL/view?usp=sharing"><span style="color:blue">Slides, </span> </a> <a href="https://youtu.be/rI--agyHEoE"> <span style="color:blue">Video</span></a>)</td></tr>
     <tr> <th scope="row" data-time="08:45">08:45 AM</th> <td>Talk 2: "The Role of Model Design:Characterizing Bias and Developing Trustworthy AI Models" by Sara Hooker  (<a href="https://drive.google.com/file/d/1iz75ySbHZXtCFNB8dGgtoaL3h3V6VUsO/view?usp=sharing"><span style="color:blue">Slides, </span> </a> <a href="https://youtu.be/-dIP0jZWvbA"> <span style="color:blue">Video</span></a>)</td></tr>
     <tr> <th scope="row" data-time="09:30">09:30 AM</th> <td>Talk 3: "Human-centric AI for Computer Vision and Machine Autonomy" by Bolei Zhou (<a href="https://drive.google.com/file/d/1Xzwy4bKbk1O4L7sV6D9xSUewdB3hHynS/view?usp=sharing"><span style="color:blue">Slides, </span> </a> <a href="https://www.youtube.com/watch?v=WJSXpEkNCfs"> <span style="color:blue">Video</span></a>)</td> </tr>
-    <tr> <th scope="row" data-time="10:15">10:15 AM</th> <td>Talk 4: "Adversarially Robust Models as Visual Priors" by Aleksander Madry</td></tr>
+    <tr> <th scope="row" data-time="10:15">10:15 AM</th> <td>Talk 4: "Adversarially Robust Models as Visual Priors" by Aleksander Madry (<a href="https://youtu.be/GmHCpFr1EbA"> <span style="color:blue">Video</span></a>)</td></tr>
     <tr> <th scope="row" data-time="11:00">11:00 AM</th> <td>Panel Discussion</td> </tr>
     </tbody>
     </table>
