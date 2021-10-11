@@ -14,7 +14,7 @@ acknowledgements: ""
   <div class="col-xs-12">
     <center><h1>Towards Robust, Trustworthy, and Explainable Computer Vision</h1></center>
     <center><h2>8 am - 12 pm on Oct 11, 2021. ICCV Tutorial, Montreal, Canada.</h2></center>
-    <center><h2><a href="https://www.eventscribe.net/2021/ICCV/agenda.asp?startdate=10/11/2021&enddate=10/11/2021&BCFO=Tu&pfp=Tutorials&tn=&cpf2=&cus2=&pta=" target="_blank">[Instructions for joining our Panel Discussion]</a></h2> </center>
+    <center><h3><a href="https://www.eventscribe.net/2021/ICCV/agenda.asp?startdate=10/11/2021&enddate=10/11/2021&BCFO=Tu&pfp=Tutorials&tn=&cpf2=&cus2=&pta=" target="_blank"><span style="color:blue">[Instructions for joining our Panel Discussion]</span></a></h3> </center>
   </div>
 </div>
 
